@@ -9,7 +9,11 @@ Weird is, that in dev mode (`yarn dev`) it works fine.
 1. run `yarn` to install packages
 2. run `yarn build` - ends with error
 
-## My error
+### Note:
+
+When opting for SSR instead of static build (vercel adapter), the build command succeeds. Check out the [SSR branch](https://github.com/VojtaStruhar/astro-react-syntax-highlighter-buildcrash/tree/ssr).
+
+## My build error
 
 ```
 (...)
